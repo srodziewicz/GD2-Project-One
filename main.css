@@ -1,0 +1,23 @@
+body {
+	padding-top: 20px;
+	background-color: rgb( 190 , 229 , 237 );
+	font-family: helvetica, sans-serif;
+	color: rgb( 112 , 138 , 144)
+}
+
+.head {
+	padding: 20px 0;
+	background-color: white;
+	font-family: helvetica, sans-serif;
+	color: #006688;
+}
+	
+.title h1{
+	color: #006688;
+
+}
+
+.title h3{
+	color: rgb( 112 , 138 , 144)
+}
+ 
